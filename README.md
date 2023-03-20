@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-    <a href="https://hasibul-hasan.netlify.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white"  target="_blank" alt="Portfolio"></a>
+    <!--<a href="https://hasibul-hasan.netlify.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white"  target="_blank" alt="Portfolio"></a>  -->
     <a href="https://www.linkedin.com/in/sarder-iftekhar-ahmed/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"  target="_blank" alt="Linkedin"></a>
     <a href="https://github.com/Sarder-Iftekhar"><img src="https://img.shields.io/badge/github-000?style=flat&logo=github&logoColor=white"  target="_blank" alt="GitHub"></a>
 <!--     <a href="https://www.instagram.com/iamtheridu/"><img src="https://img.shields.io/badge/instagram-F56040?style=flat&logo=instagram&logoColor=white"  target="_blank" alt="Instagram"></a> -->
