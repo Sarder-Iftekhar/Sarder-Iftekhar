@@ -67,13 +67,13 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarder-Iftekhar&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="49.5%">
     </a>
     <a href="https://github.com/Sarder-Iftekhar">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sarder-Iftekhar&theme=gruvbox&hide_border=true" width="49.5%">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sarder_Iftekhar&theme=gruvbox&hide_border=true" width="49.5%">
     </a>
 
 </div>
 <!-- <img src="img/border-img/colored.png"  width="100%" alt="Hi fellow"/> -->
 <p align="center">
-<a href="https://wakatime.com/@Sarder-Iftekhar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sarder-Iftekhar&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=8"  width="58%" alt="@Hasibul's wakatime stats"/></a>
+<a href="https://wakatime.com/@Sarder_Iftekhar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sarder_Iftekhar&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=8"  width="58%" alt="@Hasibul's wakatime stats"/></a>
 <a href="https://github.com/Sarder-Iftekhar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Sarder-Iftekhar&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Hasibul's trophy stats"/></a>
 </p>
 <!-- <img src="img/border-img/colored.png"  width="100%" alt="Hi fellow"/> -->
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/iamtheridu/"><img src="https://img.shields.io/badge/facebook-025FB1?style=flat&logo=facebook&logoColor=white"  target="_blank" alt="Facebook"></a>
     <a href="https://www.hackerrank.com/Hasibul"><img src="https://img.shields.io/badge/hackerrank-1BA94C?style=flat&logo=hackerrank&logoColor=white"  target="_blank" alt="Hackerrank"></a>
     <a href="mailto:mdhasibulhasan.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white"  target="_blank" alt="Gmail"></a>
-    <a href="https://wakatime.com/@Sarder-Iftekhar"><img src="https://img.shields.io/badge/wakaTime-CCC?style=flat&logo=wakatime&logoColor=black"  target="_blank" alt="WakaTime"></a>
+    <a href="https://wakatime.com/@Sarder_Iftekhar"><img src="https://img.shields.io/badge/wakaTime-CCC?style=flat&logo=wakatime&logoColor=black"  target="_blank" alt="WakaTime"></a>
     <a href="https://leetcode.com/iamhasibul/"><img src="https://img.shields.io/badge/leetcode-FFA11F?style=flat&logo=leetcode&logoColor=black"  target="_blank" alt="leetCode"></a>
 
 </div>
