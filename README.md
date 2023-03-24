@@ -1,5 +1,5 @@
 ## Hi there 👋
->This is Sarder Iftekhar Ahmed.I am a software developer and Deep Learning Enthusiast . I love to code & live without hard rules and regulatios, reading books, sleeping with no alarm and travels to nature.
+>This is Sarder Iftekhar Ahmed. I am a software developer and Deep Learning Enthusiast . I love to code & live without hard rules and regulations, reading books, sleeping with no alarm and travels to nature.
 
 🌱 I’m currently working with .Net Web API, Angular, SQL.
 🌱 Also I am doing some research work in image processing using deep learning
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://github.com/Sarder-Iftekhar"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=3000&pause=500&color=1BA94C&center=true&vCenter=true&width=435&lines=Hey%2C+it's+Iftekhar+Ahmed+👋;"/></a>
+<a href="https://github.com/Sarder-Iftekhar"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=3000&pause=500&color=1BA94C&center=true&vCenter=true&width=435&lines=Hey%2C+it's+Iftekhar+Ahmed+👋;Dot+NET+Developer;"/></a>
 </p>
 
 <div align="center">
