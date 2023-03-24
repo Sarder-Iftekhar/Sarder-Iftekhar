@@ -11,11 +11,12 @@
 
 <div align="center" style="margin-top:10px">
 
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />    
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> 
 <img src="https://img.shields.io/badge/ReactJs-0FAAFF?style=flat&logo=react&logoColor=white" />
 
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-0FAAFF?style=flat&logo=mui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-3498DB?style=flat&logo=tailwindcss&logoColor=white"/>
