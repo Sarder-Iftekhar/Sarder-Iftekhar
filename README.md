@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://github.com/Sarder-Iftekhar"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=3000&pause=500&color=1BA94C&center=true&vCenter=true&width=435&lines=Hey%2C+it's+Iftekhar+Ahmed+👋;Dot+NET+Developer;Deep+Learning+Enthusiast;Full+Stack+ Developer;Problem+Solver;"/></a>
+<a href="https://github.com/Sarder-Iftekhar"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=3000&pause=500&color=1BA94C&center=true&vCenter=true&width=435&lines=Hey%2C+it's+Iftekhar+Ahmed+👋;Dot+NET+Developer;Deep+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;"/></a>
 </p>
 
 <div align="center">
