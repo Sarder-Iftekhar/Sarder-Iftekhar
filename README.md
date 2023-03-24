@@ -1,7 +1,8 @@
 ## Hi there 👋
->I am Sarder Iftekhar.I create web applications. I love to write code in the middle of the night, share my knowledge with my friends. During my free time, I like to eat various foods.
+>This is Sarder Iftekhar Ahmed.I am a software developer and Deep Learning Enthusiast . I love code & live without hard rules and regulatios, reading books, sleeping with no alarm and travels to nature.
 
-🌱 I’m currently learning .Net, Angular, SQL etc.
+🌱 I’m currently working with .Net Web API, Angular, SQL.
+🌱 Also I am doing some research work in image processing using deep learning
 
 <!-- 📫 How to reach me [Click Here](https://hasibul-hasan.netlify.app/) . -->
 
@@ -13,8 +14,7 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> 
 <img src="https://img.shields.io/badge/ReactJs-0FAAFF?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-E34F26?style=flat&logo=laravel&logoColor=white" /> 
-<img src="https://img.shields.io/badge/WordPress-3498DB?style=flat&logo=wordpress&logoColor=white" /> 
+
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-0FAAFF?style=flat&logo=mui&logoColor=white"/>
@@ -32,12 +32,12 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual Studio Code-2CA5E0?style=flat&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-777BB4?style=flat&logo=visual-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/PhpStorm-D545F1?style=flat&logo=phpstorm&logoColor=white"/>
+
 </div>
 <!--
 **Sarder-Iftekhar/Sarder-Iftekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
